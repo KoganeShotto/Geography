@@ -1,0 +1,28 @@
+* {
+    margin: 10;
+}
+html {
+    font-size: 20;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container1 {
+	text-align: center;
+}
+.bor {
+	border: 4px solid black;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.p {
+	display: block;
+}
+.h {
+	font-size:35px;
+}
+.q {
+	font-size:25px;
+}
+.rez {
+	font-size:30px;
+}
